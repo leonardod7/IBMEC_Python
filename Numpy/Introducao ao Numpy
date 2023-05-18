@@ -1,0 +1,7 @@
+A biblioteca Numpy é uma biblioteca numérica do Python para arrays multidimensionais. Um array numpy é semelhante as listas do Python, isto é, um conjunto
+de variáveis que armazenam valores do mesmo tipo. O acesso aos valores do array é efetuado através de índices inteiros não negativos.
+
+A biblioteca é muito importante para computação científica no Python, pois suporta operações com arrays uni (listas/vetores) e  multidimensionais (matrizes) de alta
+performance, além de várias ferramentas para se trabalhar com esses arrays. Os arrays podem ser uni (1D), bi(2D).
+
+Para se trabalhar com a biblioteca numpy, precisamos realizar a sua importação
